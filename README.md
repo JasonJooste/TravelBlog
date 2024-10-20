@@ -5,4 +5,4 @@ For building some gems
 Install bundle as a user
 `gem install --user-install bundle`
 Make the bundle path local
-`echo 'export BUNDLE_PATH="$HOME/.bundle"' >> .bashrc`
+`echo 'export BUNDLE_PATH="$HOME/.bundle"' >> ~/.bashrc`

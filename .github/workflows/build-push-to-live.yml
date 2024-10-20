@@ -18,9 +18,11 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3.5'
+          ruby-version: '3.3.5'  # Adjust this to the required Ruby version
+
+      - name: Install Jekyll and dependencies
         run: |
-          gem install jekyll bundler
+          gem install bundler jekyll
           bundle install
 
       - name: Build the Jekyll site

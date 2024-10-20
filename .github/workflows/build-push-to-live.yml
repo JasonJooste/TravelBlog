@@ -1,0 +1,40 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3.5'
+        run: |
+          gem install jekyll bundler
+          bundle install
+
+      - name: Build the Jekyll site
+        run: bundle exec jekyll build
+
+      - name: Deploy to live branch
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git checkout --orphan live
+          git reset --hard
+          cp -r _site/* .
+          rm -rf _site
+          git add .
+          git commit -m "Deploy site to live branch"
+          git push --force origin live
+

@@ -117,6 +117,7 @@ sass:
   style: compressed
 
 ###########################################################
-# Exclude these files or folders from production site
+# Exclude/include these files or folders from production site
 ###########################################################
 exclude: ["Gemfile*", "vendor", ".github", ".vscode", "README*", "CODE_OF_CONDUCT.md", "LICENSE", "docs"]
+include: [".htaccess"]

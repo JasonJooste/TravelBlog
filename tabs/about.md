@@ -37,9 +37,14 @@ date: 2024-07-28 16:10:00
 
 Hi there,
 
-I'm Jason and I'm planning to travel from Munich to Cape Town in along the west coast of Africa, crossing from Spain to Morocco by ferry.
+I'm Jason and I'm riding my bike BoB (Beast of Burden) from Munich (the gateway to Africa) to Cape Town along the west coast of Africa.
+I travel to connect with people, and it seems like riding a bicycle is a great way to look tired and pitiable enough for people to help, as long as the smell doesn't scare them off.
+I left on August 31, 2024 and my plan is to arrive before Christmas 2025.
 
-From 2016 to 2018 I did a similar trip by motorbike from Brisbane to Munich.
-This is a kind of spiritual continuation of that trip and hopefully another leg in a Round-The-World adventure.
+This blog is somewhat a work in progress.
+I stubbornly decided to make my own website with my own webserver rather than just using wordpress or something similar.
+This stubborn insistence on doing it myself to a fault is a central theme that I'm sure will make for great reading (at my expense) in the year to come.
+Any resemblence to early internet websites is unintentional and purely related to a lack of website building ability and a sense for aesthetics.
 
-I'll add more here when I get a moment (a wildly inaccurate guess of my route would be cool).
+Cheers,
+Jason and BoB

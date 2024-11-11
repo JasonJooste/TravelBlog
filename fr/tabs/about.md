@@ -38,11 +38,11 @@ img: ":about.jpg"
 
 Bonjour à tous,
 
-Je m'appelle Jason et je prévois de voyager de Munich au Cap en longeant la côte ouest de l'Afrique, en traversant de l'Espagne au Maroc par ferry.
+Je m'appelle Jason et j'enfourche mon vélo BoB (Beast of Burden - bête de somme en francais) de Munich (la porte d'entrée de l'Afrique) au Cap, le long de la côte ouest de l'Afrique. Je voyage pour rencontrer des gens, et il semble que le vélo soit un excellent moyen d'avoir l'air fatigué et suffisamment pitoyable pour que les gens m'aident, tant que l'odeur ne les effraie pas. Je suis parti le 31 août 2024 et je prévois d'arriver avant Noël 2025.
 
-De 2016 à 2018, j'ai fait un voyage similaire en moto de Brisbane à Munich.
-C'est une sorte de continuation spirituelle de ce voyage et, je l'espère, une autre étape d'une aventure autour du monde.
+Ce blog est en quelque sorte un travail en cours. J'ai décidé obstinément de créer mon propre site web avec mon propre serveur web plutôt que d'utiliser wordpress ou quelque chose de similaire. Cette obstination à faire les choses moi-même est un thème central qui, j'en suis sûr, fera l'objet d'une lecture passionnante (à mes dépens) dans l'année à venir. Toute ressemblance avec les premiers sites Internet est involontaire et purement liée à un manque de compétences en matière de construction de sites et de sens de l'esthétique.
 
-J'en ajouterai plus ici dès que j'en aurai le temps (une estimation très imprécise de mon itinéraire serait cool).
+Ceci est actuellement traduit automatiquement mais j'espère que je serai capable d'écrire ces messages d'ici la fin du voyage.
 
-Traduit avec DeepL.com (version gratuite)
+A la vôtre,
+Jason et BoB

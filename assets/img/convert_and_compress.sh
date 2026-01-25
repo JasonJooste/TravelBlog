@@ -3,7 +3,7 @@ set -e
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
-MAX_PIXEL_WIDTH=400
+MAX_PIXEL_WIDTH=2000
 QUALITY=80
 for i in *.png; do
   convert "$i" "${i%.*}.jpg"

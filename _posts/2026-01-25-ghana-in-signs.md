@@ -11,7 +11,7 @@ tags: [Ghana, lighthearted, signs, funny]
 # multiple category is not supported
 category: travel
 # thumbnail image for post
-img: ":2026-01-25-ghana-in-signs/DSC01018"
+img: ":2026-01-25-ghana-in-signs/DSC01018.jpg"
 # disable comments on this page
 #comments_disable: true
 
@@ -49,9 +49,6 @@ J&BoB
 ![A more apocalyptic tone with this sign](:2026-01-25-ghana-in-signs/IMG_20251218_163314.jpg)
 
 
-![A lot of regular businesses had religiously-themed names](:2026-01-25-ghana-in-signs/IMG_20251219_155439.jpg)
-
-
 ![Exceptionally unfortunate](:2026-01-25-ghana-in-signs/IMG_20260101_105637.jpg)
 
 
@@ -68,6 +65,9 @@ J&BoB
 
 
 ![Just your standard range of ads](:2026-01-25-ghana-in-signs/IMG_20260101_111759.jpg)
+
+
+![A lot of regular businesses had religiously-themed names](:2026-01-25-ghana-in-signs/IMG_20251219_155439.jpg)
 
 
 ![Unfortunate](:2026-01-25-ghana-in-signs/IMG_20251223_152025.jpg)

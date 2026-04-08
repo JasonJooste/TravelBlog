@@ -1,6 +1,6 @@
 ---
 lng_pair: 2026-03-22-yaounde-drama
-title: "Intervention militare à Yaoundé"
+title: "Intervention militaire à Yaoundé"
 category: travel
 # multiple tag entries are possible
 tags: [Cameroon, Yaoundé, military, government, bureaucracy]

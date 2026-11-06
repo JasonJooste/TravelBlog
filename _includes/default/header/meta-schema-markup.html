@@ -10,7 +10,7 @@
 {%- assign meta_contact_pages = '' | split: '' -%}
 {% for accounts in site.data.owner[lng].contacts -%}
   {%- assign account_var = accounts | first %}{% assign account_key = account_var[0] %}{% assign account_username = account_var[1] -%}
-  {%- if account_key == 'email' -%}{% continue %}{% endif -%}
+  {%- if account_key == 'email' or account_key == 'rss' -%}{% continue %}{% endif -%}
   {%- if account_username == nil or account_username == empty -%}{% continue %}{% endif -%}
   {%- assign tmp_link = site.data.const.contact[account_key].url | append:'/' | append: account_username  -%}
   {%- assign meta_contact_pages = meta_contact_pages | push: tmp_link  -%}

@@ -51,6 +51,7 @@ meta_common_description: "A travel blog about biking from Europe to South Africa
 contacts:
   #- github: ""
   - email: "jason@rtwbob.net"
+  - rss: "feed.xml"
   #- linkedin: ""
   #- twitter: ""
   #- mastodon: ""

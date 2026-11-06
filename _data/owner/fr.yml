@@ -49,7 +49,7 @@ meta_common_description: "Votre méta description."
 # comment to remove any contact item
 contacts:
   #- github: ""
-  #- email: ""
+  - email: "jason@rtwbob.net"
   #- linkedin: ""
   #- twitter: ""
   #- mastodon: ""

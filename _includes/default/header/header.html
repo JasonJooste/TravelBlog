@@ -31,6 +31,13 @@
 <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/img/favicons/favicon-16x16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/img/favicons/apple-touch-icon.png">
 
+{%-comment-%} RSS feed (see _includes/feed/rss.xml) {%-endcomment%}
+{%- if lng == "fr" %}
+<link rel="alternate" type="application/rss+xml" title="{{ site.data.owner.fr.brand }}" href="{{ site.baseurl }}/fr/feed.xml">
+{%- else %}
+<link rel="alternate" type="application/rss+xml" title="{{ site.data.owner.en.brand }}" href="{{ site.baseurl }}/feed.xml">
+{%- endif %}
+
 {%- if page.search_engine_exclude == true %}
   {%-comment-%} follow because all pages have navigation (links) {%-endcomment-%}
   <meta name="robots" content="noindex, follow">

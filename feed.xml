@@ -1,0 +1,5 @@
+---
+layout: null
+sitemap: false
+---
+{% include feed/rss.xml lng="en" feed_path="/feed.xml" description=site.data.owner.en.meta_common_description %}

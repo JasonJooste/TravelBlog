@@ -1,0 +1,5 @@
+---
+layout: null
+sitemap: false
+---
+{% include feed/rss.xml lng="fr" feed_path="/fr/feed.xml" description="Un blog de voyage à vélo de l'Europe à l'Afrique du Sud" %}

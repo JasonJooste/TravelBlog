@@ -1,5 +1,5 @@
 ---
-lng_pair: insta_2025-08-01-10-00-21
+lng_pair: 2025-09-05-yamoussoukro
 title: "The Basilica"
 category: travel
 # multiple tag entries are possible

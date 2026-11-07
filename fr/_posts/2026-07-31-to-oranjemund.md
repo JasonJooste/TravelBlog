@@ -37,31 +37,33 @@ Ce matin, j'ai visité le musée local et j'ai retrouvé mes parents dans les an
 Accueilli à la maison,
 J&BoB
 
-![L'éolienne géante faite maison - 30 ans de travail](:2026-07-31-to-oranjemund/DSC03304.jpg)
+(Traduit automatiquement)
+
+![The giant homemade windmill - 30 years in the making](:2026-07-31-to-oranjemund/DSC03304.jpg)
 
 
-![Une pause dans une ferme](:2026-07-31-to-oranjemund/DSC03345.jpg)
+![Taking a break at a farm](:2026-07-31-to-oranjemund/DSC03345.jpg)
 
 
-![Champs dorés et montagnes au loin](:2026-07-31-to-oranjemund/DSC03392.jpg)
+![Golden fields and distant mountains](:2026-07-31-to-oranjemund/DSC03392.jpg)
 
 
-![Le long de la voie ferrée au coucher du soleil](:2026-07-31-to-oranjemund/DSC03424.jpg)
+![Riding alongside the railway at sunset](:2026-07-31-to-oranjemund/DSC03424.jpg)
 
 
-![Sur le VTT prêté par Piet](:2026-07-31-to-oranjemund/DSC03447.jpg)
+![Out on Piet's mountain bike](:2026-07-31-to-oranjemund/DSC03447.jpg)
 
 
-![Mon lit pour la nuit dans le camping-car de Darnie](:2026-07-31-to-oranjemund/DSC03461.jpg)
+![My bed for the night in Darnie's caravan](:2026-07-31-to-oranjemund/DSC03461.jpg)
 
 
-![Fleurs sauvages sous un ciel assombri par la poussière](:2026-07-31-to-oranjemund/DSC03494.jpg)
+![Wildflowers under a dust-darkened sky](:2026-07-31-to-oranjemund/DSC03494.jpg)
 
 
-![Le pub du motel, tout droit sorti de l'outback](:2026-07-31-to-oranjemund/DSC03523.jpg)
+![The motel pub, straight out of the outback](:2026-07-31-to-oranjemund/DSC03523.jpg)
 
 
-![Avec Günther, Mike et Adrien](:2026-07-31-to-oranjemund/DSC03565.jpg)
+![With the boys](:2026-07-31-to-oranjemund/DSC03565.jpg)
 
 
-![Barbecue sur la plage de ma ville natale](:2026-07-31-to-oranjemund/DSC03568.jpg)
+![Beach braii](:2026-07-31-to-oranjemund/DSC03568.jpg)

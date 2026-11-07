@@ -37,31 +37,33 @@ Je vous préviens quand j'arrive !
 Pensivement,
 J&BoB
 
-![Brume glaciale dans le Cap-Nord](:2026-08-08-to-yzerfontein/DSC03646.jpg)
+(Traduit automatiquement)
+
+![Icy mist in the Northern Cape](:2026-08-08-to-yzerfontein/DSC03646.jpg)
 
 
-![Encore des gens adorables](:2026-08-08-to-yzerfontein/DSC03654.jpg)
+![More kind people](:2026-08-08-to-yzerfontein/DSC03654.jpg)
 
 
-![BoB reprend son souffle](:2026-08-08-to-yzerfontein/DSC03663.jpg)
+![BoB taking a breather](:2026-08-08-to-yzerfontein/DSC03663.jpg)
 
 
-![Une ville tranquille en chemin](:2026-08-08-to-yzerfontein/DSC03669.jpg)
+![A quiet town on the way](:2026-08-08-to-yzerfontein/DSC03669.jpg)
 
 
-![Koingnaas, privée d'électricité depuis quatre semaines](:2026-08-08-to-yzerfontein/DSC03688.jpg)
+![Koingnaas, which hadn't had power in four weeks](:2026-08-08-to-yzerfontein/DSC03688.jpg)
 
 
-![Thé, café et dîner au poste d'entrée du parc national](:2026-08-08-to-yzerfontein/DSC03695.jpg)
+![Tea, coffee and dinner at the national park entry post](:2026-08-08-to-yzerfontein/DSC03695.jpg)
 
 
-![Collines broussailleuses le long de la côte du Namaqualand](:2026-08-08-to-yzerfontein/DSC03722.jpg)
+![Scrubby hills along the Namaqua coast](:2026-08-08-to-yzerfontein/DSC03722.jpg)
 
 
-![Mes hôtes du gin tonic](:2026-08-08-to-yzerfontein/DSC03755.jpg)
+![Gin and tonic hosts](:2026-08-08-to-yzerfontein/DSC03755.jpg)
 
 
-![La côte se rapproche du Cap](:2026-08-08-to-yzerfontein/DSC03756.jpg)
+![The coast getting closer to Cape Town](:2026-08-08-to-yzerfontein/DSC03756.jpg)
 
 
-![Soutenez votre dealer de caféine local](:2026-08-08-to-yzerfontein/DSC03764.jpg)
+![Support your local caffeine dealer](:2026-08-08-to-yzerfontein/DSC03764.jpg)

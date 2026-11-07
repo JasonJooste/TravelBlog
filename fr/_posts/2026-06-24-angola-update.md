@@ -35,16 +35,18 @@ Voici quelques photos des derniers jours de route en Angola, où il reste encore
 Confortablement,
 J&BoB
 
-![« A luta continua » - un monument révolutionnaire au bord de la route](:2026-06-24-angola-update/DSC03002.jpg)
+(Traduit automatiquement)
+
+!['A luta continua' - a revolutionary monument by the road](:2026-06-24-angola-update/DSC03002.jpg)
 
 
-![Des baobabs au coucher du soleil sur la route vers le sud](:2026-06-24-angola-update/DSC03005.jpg)
+![Baobabs at sunset on the road south](:2026-06-24-angola-update/DSC03005.jpg)
 
 
-![Nouvelle amitié en Angola](:2026-06-24-angola-update/IMG_20260620_213629.jpg)
+![Making friends in Angola](:2026-06-24-angola-update/IMG_20260620_213629.jpg)
 
 
-![Des chars rouillés jonchent encore le bord des routes](:2026-06-24-angola-update/IMG_20260624_132639.jpg)
+![Rusting tanks are still scattered along the roadside](:2026-06-24-angola-update/IMG_20260624_132639.jpg)
 
 
-![BoB et un vieux véhicule blindé de transport de troupes](:2026-06-24-angola-update/IMG_20260624_160858.jpg)
+![BoB and an old armoured personnel carrier](:2026-06-24-angola-update/IMG_20260624_160858.jpg)

@@ -39,31 +39,33 @@ Puis j'ai mis BoB dans un carton et j'ai pris mon vol. Un parmi des centaines à
 Bien nourri et abreuvé,
 J&BoB
 
-![Premier aperçu de la montagne de la Table](:2026-08-22-to-cape-town/DSC03805.jpg)
+(Traduit automatiquement)
+
+![First sight of Table Mountain](:2026-08-22-to-cape-town/DSC03805.jpg)
 
 
-![Arrivée au Cap](:2026-08-22-to-cape-town/DSC03810.jpg)
+![Riding into Cape Town](:2026-08-22-to-cape-town/DSC03810.jpg)
 
 
-![J'y suis ! Le cap de Bonne-Espérance](:2026-08-22-to-cape-town/DSC03827.jpg)
+![Made it! The Cape of Good Hope](:2026-08-22-to-cape-town/DSC03827.jpg)
 
 
-![BoB au phare après avoir été porté sur des centaines de marches](:2026-08-22-to-cape-town/DSC03832.jpg)
+![BoB at the lighthouse after being carried up hundreds of steps](:2026-08-22-to-cape-town/DSC03832.jpg)
 
 
-![Randonnée dans le brouillard](:2026-08-22-to-cape-town/DSC03859.jpg)
+![Hiking in the fog](:2026-08-22-to-cape-town/DSC03859.jpg)
 
 
-![La montagne de la Table cachée dans les nuages](:2026-08-22-to-cape-town/DSC03865.jpg)
+![Table Mountain hiding in the clouds](:2026-08-22-to-cape-town/DSC03865.jpg)
 
 
-![On fait les touristes](:2026-08-22-to-cape-town/DSC03885.jpg)
+![Doing the tourist thing](:2026-08-22-to-cape-town/DSC03885.jpg)
 
 
-![Le programme d'alimentation intensive de ma tante](:2026-08-22-to-cape-town/20260820_185549.jpg)
+![My aunt's relentless feeding programme](:2026-08-22-to-cape-town/20260820_185549.jpg)
 
 
-![De retour en Occident : « Ne soyez pas victime du brouillage à distance »](:2026-08-22-to-cape-town/20260821_202008.jpg)
+![Back in the West: "Don't be a victim of remote jamming"](:2026-08-22-to-cape-town/20260821_202008.jpg)
 
 
-![BoB emballé et prêt à rentrer en avion](:2026-08-22-to-cape-town/20260822_125330.jpg)
+![BoB packed up and ready to fly home](:2026-08-22-to-cape-town/20260822_125330.jpg)

@@ -33,28 +33,30 @@ La pédale devrait arriver en fin d'après-midi et je pourrai continuer vers le 
 Carrément,
 J&BoB
 
-![Collines rocheuses le long de la route vers le sud](:2026-07-18-to-maltahohe/DSC03207.jpg)
+(Traduit automatiquement)
+
+![Rocky hills along the road south](:2026-07-18-to-maltahohe/DSC03207.jpg)
 
 
-![Une belle bande au tropique du Capricorne](:2026-07-18-to-maltahohe/DSC03214.jpg)
+![A big crowd at the Tropic of Capricorn](:2026-07-18-to-maltahohe/DSC03214.jpg)
 
 
-![...et une autre famille](:2026-07-18-to-maltahohe/DSC03218.jpg)
+![...and another family](:2026-07-18-to-maltahohe/DSC03218.jpg)
 
 
-![Un peu d'eau, chose rare, dans le lit de la rivière](:2026-07-18-to-maltahohe/DSC03233.jpg)
+![A rare bit of water in the riverbed](:2026-07-18-to-maltahohe/DSC03233.jpg)
 
 
-![Traînées de poussière sur le gravier](:2026-07-18-to-maltahohe/DSC03238.jpg)
+![Dust trails on the gravel](:2026-07-18-to-maltahohe/DSC03238.jpg)
 
 
-![Coucher de soleil sur les plaines](:2026-07-18-to-maltahohe/DSC03240.jpg)
+![Sunset over the plains](:2026-07-18-to-maltahohe/DSC03240.jpg)
 
 
-![Encore des inconnus adorables](:2026-07-18-to-maltahohe/DSC03241.jpg)
+![More kind strangers](:2026-07-18-to-maltahohe/DSC03241.jpg)
 
 
-![À mon tour au tropique du Capricorne](:2026-07-18-to-maltahohe/IMG_20260716_124221.jpg)
+![My turn at the Tropic of Capricorn](:2026-07-18-to-maltahohe/IMG_20260716_124221.jpg)
 
 
-![« Y a-t-il une vie après la mort ? Sautez la clôture pour le savoir »](:2026-07-18-to-maltahohe/IMG_20260718_112815.jpg)
+!["Is there life after death? Jump the fence and find out"](:2026-07-18-to-maltahohe/IMG_20260718_112815.jpg)

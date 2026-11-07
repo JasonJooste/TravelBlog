@@ -39,31 +39,33 @@ Prochaine étape : Oranjemund, où je suis né !
 Frais et en forme,
 J&BoB
 
-![Herbes dorées sur la route vers le sud](:2026-07-14-to-windhoek/DSC03162.jpg)
+(Traduit automatiquement)
+
+![Golden grass on the way south](:2026-07-14-to-windhoek/DSC03162.jpg)
 
 
-![Nouveaux amis au camping](:2026-07-14-to-windhoek/DSC03170.jpg)
+![New friends at the campground](:2026-07-14-to-windhoek/DSC03170.jpg)
 
 
-![Des hôtes généreux](:2026-07-14-to-windhoek/DSC03171.jpg)
+![Generous hosts](:2026-07-14-to-windhoek/DSC03171.jpg)
 
 
-![Encore des hôtes généreux](:2026-07-14-to-windhoek/DSC03174.jpg)
+![More generous hosts](:2026-07-14-to-windhoek/DSC03174.jpg)
 
 
-![Heroes' Acre près de Windhoek, construit par le Mansudae Art Studio nord-coréen](:2026-07-14-to-windhoek/DSC03188.jpg)
+![Heroes' Acre outside Windhoek, built by North Korea's Mansudae Art Studio](:2026-07-14-to-windhoek/DSC03188.jpg)
 
 
-![Tôle ondulée, sable et isolement](:2026-07-14-to-windhoek/IMG_20260708_103757.jpg)
+![Corrugated, sandy and isolated](:2026-07-14-to-windhoek/IMG_20260708_103757.jpg)
 
 
-![Bières et histoires](:2026-07-14-to-windhoek/IMG_20260709_094621.jpg)
+![Beers and stories](:2026-07-14-to-windhoek/IMG_20260709_094621.jpg)
 
 
-![Des portails et des pistes qui disparaissent dans le bush](:2026-07-14-to-windhoek/IMG_20260710_103455.jpg)
+![Gates and dirt roads disappearing into the bush](:2026-07-14-to-windhoek/IMG_20260710_103455.jpg)
 
 
-![Un salon douillet après des jours de piste](:2026-07-14-to-windhoek/IMG_20260711_175437.jpg)
+![A cosy living room after days on the dirt](:2026-07-14-to-windhoek/IMG_20260711_175437.jpg)
 
 
-![L'Independence Memorial Museum de Windhoek - encore une construction nord-coréenne](:2026-07-14-to-windhoek/IMG_20260713_164548.jpg)
+![The Independence Memorial Museum in Windhoek - another North Korean build](:2026-07-14-to-windhoek/IMG_20260713_164548.jpg)

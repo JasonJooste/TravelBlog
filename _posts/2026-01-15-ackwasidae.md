@@ -1,5 +1,5 @@
 ---
-lng_pair: 2026-01-06-to-kumasi
+lng_pair: 2026-01-15-ackwasidae
 title: "The Ackwasidae Festival"
 category: travel
 # multiple tag entries are possible
